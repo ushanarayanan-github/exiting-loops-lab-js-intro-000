@@ -19,3 +19,8 @@ for (let i=0;i<array.length;i++) {
 }
 return array
 }
+
+function findBy(array, findFn) {
+
+  
+}
